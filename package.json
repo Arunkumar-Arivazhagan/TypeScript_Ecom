@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@playwright/test": "^1.46.1",
+    "install": "^0.13.0",
+    "playwright": "^1.46.1",
+    "typescript": "^5.5.4"
+  }
+}
