@@ -1,5 +1,7 @@
 # Task 10 & 11 - I have used a new booming framework called Playwright with TypeScript. Below I have added the initial setup, this can be considered as a baseline and further branched out.
 
+To run the code, npx playwright test --ui
+
 ## TypeScript setup:
 - npm i -g typescript
 - In the project folder, tsc --init
